@@ -4,11 +4,11 @@
 
 </br>
 
-💻CyberSec Toolset: 'Kali', 'Wireshark', 'BurpSuite' 
+💻 CyberSec Toolset: `Kali`, `Wireshark`, `BurpSuite`
 
-#️⃣ProgramSWE Toolset: 'Python'
+#️⃣ ProgramSWE Toolset: `Python`
 
-🐶Favorite Things: Dogs, Pizza 
+🐶 Favorite Things: Dogs, Pizza 
 
 </br> 
 
